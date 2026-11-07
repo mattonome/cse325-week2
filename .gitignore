@@ -4,4 +4,4 @@ obj/
 .vs/
 *.db
 *.db-shm
-*.db-wal
+*.db-wal 
